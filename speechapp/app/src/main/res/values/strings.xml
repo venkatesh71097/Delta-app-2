@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">speechapp</string>
+    <string name="speech">speech</string>
+    <string name="shape">shape</string>
+</resources>
